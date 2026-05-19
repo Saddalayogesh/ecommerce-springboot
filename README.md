@@ -81,7 +81,7 @@ Laptop Pro,120000,15.0,true,Dell,Laptop,2024
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ecommerce-springboot.git
+git clone https://github.com/Saddalayogesh/ecommerce-springboot.git
 ```
 
 Open the project in IntelliJ IDEA or Eclipse.
