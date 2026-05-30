@@ -112,5 +112,3 @@ http://localhost:8080
 ## 👨‍💻 Author
 
 **Saddala Yogesh**
-
-⭐ If you found this project useful, consider giving it a star!
