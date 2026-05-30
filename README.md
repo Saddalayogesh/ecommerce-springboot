@@ -1,37 +1,38 @@
-# E-Commerce Spring Boot Application
+# 🛒 E-Commerce Spring Boot Application
 
-A simple E-Commerce backend application built using Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL.  
-This project loads product data from a CSV file and stores it in a MySQL database automatically during application startup.
+A simple E-Commerce backend application built using ☕ Java, 🌱 Spring Boot, 🗄️ Spring Data JPA, 🔥 Hibernate, and 🐬 MySQL.
+
+This project loads product data from a 📄 CSV file and stores it in a MySQL database automatically during application startup.
 
 ---
 
 ## 🚀 Features
 
-- Spring Boot REST Application
-- MySQL Database Integration
-- Spring Data JPA & Hibernate
-- CSV File Data Loading
-- Product Entity Management
-- Lombok Integration
-- Maven Project Structure
+- 🌱 Spring Boot REST Application
+- 🐬 MySQL Database Integration
+- 🗄️ Spring Data JPA & Hibernate
+- 📄 CSV File Data Loading
+- 📦 Product Entity Management
+- ⚡ Lombok Integration
+- 🛠️ Maven Project Structure
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- MySQL
-- Maven
-- Lombok
+- ☕ Java
+- 🌱 Spring Boot
+- 🗄️ Spring Data JPA
+- 🔥 Hibernate
+- 🐬 MySQL
+- 🛠️ Maven
+- ⚡ Lombok
 
 ---
 
 ## 📂 Project Structure
 
-```bash
+```text
 src
  ┣ main
  ┃ ┣ java
@@ -78,15 +79,17 @@ Laptop Pro,120000,15.0,true,Dell,Laptop,2024
 
 ## ▶️ Run the Project
 
-Clone the repository:
+### 📥 Clone the Repository
 
 ```bash
 git clone https://github.com/Saddalayogesh/ecommerce-springboot.git
 ```
 
+### 💻 Open the Project
+
 Open the project in IntelliJ IDEA or Eclipse.
 
-Run the application:
+### ▶️ Run the Application
 
 ```bash
 mvn spring-boot:run
@@ -96,11 +99,11 @@ mvn spring-boot:run
 
 ## ✅ Output
 
-- Products are loaded from CSV file
-- Data is stored in MySQL database
-- Spring Boot server runs on:
+- 📄 Products are loaded from the CSV file
+- 🐬 Data is stored in the MySQL database
+- 🚀 Application runs on:
 
-```bash
+```text
 http://localhost:8080
 ```
 
@@ -108,4 +111,6 @@ http://localhost:8080
 
 ## 👨‍💻 Author
 
-Saddala Yogesh
+**Saddala Yogesh**
+
+⭐ If you found this project useful, consider giving it a star!
